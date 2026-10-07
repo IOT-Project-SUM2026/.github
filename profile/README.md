@@ -43,12 +43,13 @@ information or commands from a smartphone by voice, interpreted by Gemini.
 
 | Repo | Contents |
 |---|---|
-| [dispaly](https://github.com/IOT-Project-SUM2026/dispaly) | ESP32 display firmware (Arduino), install instructions, pinout |
+| [dispaly](https://github.com/IOT-Project-SUM2026/dispaly) | ESP32 display firmware (Arduino + LVGL), install instructions, pinout |
 | [app](https://github.com/IOT-Project-SUM2026/app) | Phone app (PWA) and backend (Node.js, Gemini, Firebase) |
 
 ## Hardware
 
 - **ESP32-2432S028R** "Cheap Yellow Display": ESP32 with a built-in 2.8" 320×240 touchscreen
+- Display UI built with **LVGL 9** (on top of TFT_eSPI)
 
 ---
 
