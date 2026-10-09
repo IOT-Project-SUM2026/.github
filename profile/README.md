@@ -30,14 +30,16 @@ information or commands from a smartphone by voice, interpreted by Gemini.
 
 | Feature | Status |
 |---|---|
-| Weather + 4-day forecast | ✅ Display |
+| Weather + 4-day forecast, 5 Israeli cities | ✅ Display |
+| Time & date (NTP) + world clock | ✅ Display |
 | Wi-Fi setup (captive portal) | ✅ Display |
 | Connection status icon | ✅ Display |
-| Brightness control | ✅ Display |
+| Settings: brightness, 24-hour time, saved across reboots | ✅ Display |
+| Idle / power saving mode | ✅ Display |
 | Voice command → Gemini → Firebase | ✅ App · 🚧 Display side |
 | Command confirmation in the app | ✅ App · 🚧 Display side |
 | Shopping list / To-do list | 🚧 In progress |
-| Time & date, calendar, idle mode, customization | 📋 Planned |
+| Calendar, display customization | 📋 Planned |
 
 ## Repositories
 
